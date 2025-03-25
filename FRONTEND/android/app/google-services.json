@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578166173419",
+    "project_id": "pemilihansma-f410b",
+    "storage_bucket": "pemilihansma-f410b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578166173419:android:823c02e05b71def0b618ae",
+        "android_client_info": {
+          "package_name": "com.example.sistem_rekomendasi_sma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfs3sfxsy0HE0X4fa_FC3Nr4hbtJ0arjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
